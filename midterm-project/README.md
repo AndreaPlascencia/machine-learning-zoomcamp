@@ -16,7 +16,7 @@ Binary classification based on gene expression of breast cancer patients can hav
 
 ## Data
 
-The data used is compressed in the Data folder. Breast cancer dataset downloaded from Firehose [https://gdac.broadinstitute.org/](https://gdac.broadinstitute.org/). These are next generation sequencing data that are provided already normalized.
+The data used is compressed in the Data folder, to use the data unzip the file. Breast cancer dataset downloaded from Firehose [https://gdac.broadinstitute.org/](https://gdac.broadinstitute.org/). These are next generation sequencing data that are provided already normalized.
 
 The dataset we are loading is called "BRCA.rnaseqv2illuminahiseq_rnaseqv2unc_eduLevel_3RSEM_genes_normalized__data.data.txt".
 
